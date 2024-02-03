@@ -1,0 +1,21 @@
+CSS Colors : 
+    * Hex Code :
+        * color code = #000000-Black
+        * color code = #FF0000-Red
+        * color code = #00FF00-Green
+        * color code = #0000FF-Blue
+
+    * Short Hex Code
+    
+    * RGB Absolute :
+        * rgb(0,0,0)-Black
+        * rgb(255,0,0)-Red
+        * rgb(0,255,0)-Green
+        * rgb(0,0,255)-Blue
+
+
+    * Keywords :
+        * Black
+        * Red
+        * Green
+        * Blue

@@ -1,0 +1,7 @@
+Different ways of linking or using style sheets (CSS Files) as follows:
+
+CSS In HTML : 
+    * Inline
+    * Embedding
+    * Linking
+    * Importing

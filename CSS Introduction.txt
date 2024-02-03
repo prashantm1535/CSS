@@ -1,0 +1,20 @@
+Prerequisite : 
+    * Knowledge of HTML.
+    * Text Editor : Notepad, Notepad++, VS Code, Sublime Text etc.,
+    * Web Browser : Google Chrome, Firefox, Microsoft Edge etc.,
+
+
+CSS Introduction :
+    * CSS Stands for Cascading Style Sheet.
+    * It is used to control the style of a web development.
+    * Handles the look and feel of web pages.
+
+
+CSS Advantages : 
+    * Saves Time, Page loads faster.
+    * Easy Maintenance.
+    * Superior Styles to HTML.
+    * Mobile device compatibility.
+
+
+
